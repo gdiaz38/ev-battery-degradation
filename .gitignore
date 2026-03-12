@@ -1,0 +1,7 @@
+venv/
+*.pkl
+*.pt
+__pycache__/
+.DS_Store
+train_features.csv
+test_features.csv
