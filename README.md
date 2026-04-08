@@ -1,11 +1,23 @@
 # 🔋 EV Battery Degradation Predictor
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge)](https://ev-battery-degradation-gdiaz38.streamlit.app/)
+
 Real-time State of Health (SoH) and Remaining Useful Life (RUL) prediction 
 for lithium-ion batteries using an LSTM neural network trained on NASA battery data.
 
 Built as a production-style ML system with a REST API and live monitoring dashboard.
 
 ---
+
+## 🚀 Try It Live
+
+**[→ Open Live Dashboard](https://ev-battery-degradation-gdiaz38.streamlit.app/)**
+
+Select a battery ID, adjust the degradation rate, and run the LSTM simulation in real time.
+
+---
+
+## Demo
 
 ## Demo
 
