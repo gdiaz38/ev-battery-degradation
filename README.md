@@ -19,8 +19,6 @@ Select a battery ID, adjust the degradation rate, and run the LSTM simulation in
 
 ## Demo
 
-## Demo
-
 ![Dashboard](capacity_curves.png)
 
 ---
