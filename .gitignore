@@ -1,7 +1,9 @@
 venv/
-*.pkl
-*.pt
-__pycache__/
 .DS_Store
-train_features.csv
-test_features.csv
+__pycache__/
+*.pyc
+.python-version
+capacity_curves.png
+training_curves.png
+download_data.py
+explore.py
