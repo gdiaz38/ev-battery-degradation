@@ -1,10 +1,7 @@
+streamlit
 pandas
 numpy
-scikit-learn
-torch
-fastapi
-uvicorn
-streamlit
 plotly
+torch
 joblib
-kagglehub
+scikit-learn
